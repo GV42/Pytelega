@@ -8,8 +8,6 @@ TOKEN = '5247832216:AAE21z1COSSrVZwnifZSBg0P15ajOSLM5Iw'
 bot = telebot.TeleBot(TOKEN)
 # api key = 22d0948b-0e64-41dd-953e-23a94e5e7bd0
 
-# ASTANA
-
 d1={'Нур-Султан':'c163',
     'Астана':'c163',
    'Алматы':'c22177',
