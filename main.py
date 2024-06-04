@@ -163,3 +163,7 @@ def bot_message(message):
 
 bot.polling(none_stop=True)
 # ИЗМЕНЕНИЯ РАДИ АДЕЛИ
+
+# ASTANA
+
+# NUR - SULTAN
